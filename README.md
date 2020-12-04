@@ -1,2 +1,2 @@
 # Biblioteca-de-codigo
-Biblioteca de código de ejemplo para temas y asuntos varios
+Biblioteca de código Delphi/Lazarus de ejemplo para temas y asuntos varios
